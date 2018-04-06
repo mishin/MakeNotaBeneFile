@@ -1,0 +1,1 @@
+java -jar MakeNotaBeneFile-1.0.0.jar > MakeNotaBeneFile.log 2>&1
